@@ -1,7 +1,7 @@
 # tutorial
 
 Anung Ariwibowo
-Barlianto
+Dedy Sugiarto
 
 ## Pendahuluan
 
