@@ -1,6 +1,7 @@
 # tutorial
 
 Anung Ariwibowo
+Barlianto
 
 ## Pendahuluan
 
